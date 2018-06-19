@@ -1,0 +1,32 @@
+
+Map information List 
+Sat Mar 25 23:14:00 MDT 2017
+******************************************************************************************
+Description                                                x      y    Map Symbol  Visited
+Crummy old subway where there was a crash One              0      0    ; )          No
+Crummy old subway where there was a crash Two              0      1    ; )          No
+Crummy old subway where there was a crash Three            0      2    ; )          No
+Crummy old subway where there was a crash Four             0      3    ; )          No
+Crummy old subway where there was a crash Five             0      4    ; )          No
+Main Street One                                            1      0    ; 0          No
+Main Street Two                                            1      1    ; 0          No
+Main Street Three                                          1      2    ; 0          No
+Main Street Four                                           1      3    ; 0          No
+Main Street Five                                           1      4    ; 0         Yes
+Billy Redneck Suites One                                   2      0    ; (          No
+Billy Redneck Suites Two                                   2      1    ; (          No
+Billy Redneck Suites Three                                 2      2    ; (         Yes
+Billy Redneck Suites Four                                  2      3    ; (          No
+Billy Redneck Suites Five                                  2      4    ; (          No
+Old Joe's Drugs One                                        3      0    ; P          No
+Old Joe's Drugs Two                                        3      1    ; P          No
+Old Joe's Drugs Three                                      3      2    ; P          No
+Old Joe's Drugs Four                                       3      3    ; P          No
+Old Joe's Drugs Five                                       3      4    ; P          No
+St. Granny Crack Memorial Hospital One                     4      0    ; X          No
+St. Granny Crack Memorial Hospital Two                     4      1    ; X          No
+St. Granny Crack Memorial Hospital Three                   4      2    ; X          No
+St. Granny Crack Memorial Hospital Four                    4      3    ; X          No
+St. Granny Crack Memorial Hospital Five                    4      4    ; X          No
+******************************************************************************************
+You have Visited :    2 Locations
